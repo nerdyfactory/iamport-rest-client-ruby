@@ -1,4 +1,5 @@
 require "iamport/version"
+require "httparty"
 
 module Iamport
   IAMPORT_HOST = "https://api.iamport.kr"
